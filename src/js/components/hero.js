@@ -90,3 +90,5 @@ menuToggle.addEventListener("click", (e) => {
     }
   });
 });
+
+export { animate, isAnimating };
