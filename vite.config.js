@@ -1,5 +1,5 @@
 // vite.config.js
 export default {
-  base: "/loopstudiowithloading/",
+  base: "/LoopStudioLandingPage/",
   // other Vite config options
 };
